@@ -29,7 +29,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 <img src="XenPi-SP.png"/>
 
 ## Log
-Developped :
+Developed :
 <br>
 25th, May, 2023
 <br>
