@@ -29,8 +29,14 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 <img src="XenPi-SP.png"/>
 
 ## Log
-Developped 25th, May, 2023
+Developped :
 <br>
-Published 26th, May, 2023
+25th, May, 2023
 <br>
-by Hirotoshi Uchida
+Published : 
+<br>
+26th, May, 2023
+<br>
+by 
+<br>
+Hirotoshi Uchida
