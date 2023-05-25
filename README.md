@@ -39,6 +39,4 @@ Published :
 26th, May, 2023
 <br>
 <br>
-by 
-<br>
-Hirotoshi Uchida
+by Hirotoshi Uchida
