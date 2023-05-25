@@ -30,5 +30,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 
 ## Log
 Developped 25th, May, 2023
+<br>
 Published 26th, May, 2023
+<br>
 by Hirotoshi Uchida
