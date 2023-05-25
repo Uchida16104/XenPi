@@ -1,6 +1,10 @@
 # XenPi
 This is an application I developed by Sonic Pi and Processing for playing microtonal performance.
 
+## Required environment
+1. [Sonic Pi](https://sonic-pi.net/)
+2. [Processing](https://processing.org/) (if you want to edit this application)
+
 ## Download and Install
 1. Download this as .zip and unzip any folder.
 2. Re-unzip the .zip file with the contents according to your operating system.
