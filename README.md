@@ -6,7 +6,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 2. [Processing](https://processing.org/) (If you want to edit this application)
 
 ## Download
-* [macOS(Intel 64bit)](https://github.com/Uchida16104/XenPi/blob/main/XenPi.pde) - Just download the all raw files.
+* [macOS(Intel 64bit)](https://github.com/Uchida16104/XenPi/blob/main/XenPi.pde) - Just download .pde and .rb files.
 * [macOS(Apple Silicon)](https://github.com/Uchida16104/XenPi/raw/main/macos-aarch64.zip)
 * [Windows(Intel 64bit)](https://github.com/Uchida16104/XenPi/raw/main/windows-amd64.zip)
 * [Linux(Intel 64bit)](https://github.com/Uchida16104/XenPi/raw/main/linux-amd64.zip)
