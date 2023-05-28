@@ -5,10 +5,17 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 1. [Sonic Pi](https://sonic-pi.net/)
 2. [Processing](https://processing.org/) (If you want to edit this application)
 
-## Download and Install
-1. Download this as .zip and unzip any folder.
-2. Re-unzip the .zip file with the contents according to your operating system.
-3. Then, run the executable file (.exe, .app, .sh) and "Xen.rb" file on Sonic Pi.
+## Download
+* [macOS(Intel 64bit)](https://github.com/Uchida16104/XenPi/blob/main/XenPi.pde)
+* [macOS(Apple Silicon)](https://github.com/Uchida16104/XenPi/raw/main/macos-aarch64.zip)
+* [Windows(Intel 64bit)](https://github.com/Uchida16104/XenPi/raw/main/windows-amd64.zip)
+* [Linux(Intel 64bit)](https://github.com/Uchida16104/XenPi/raw/main/linux-amd64.zip)
+* [Linux(Raspberry Pi 32bit)](https://github.com/Uchida16104/XenPi/raw/main/linux-arm.zip)
+* [Linux(Raspberry Pi 64bit)](https://github.com/Uchida16104/XenPi/raw/main/linux-aarch64.zip)
+
+## Install
+1. Re-unzip the downloaded .zip file with the contents according to your operating system.
+2. Then, run the executable file (.exe, .app, .sh) and "Xen.rb" file on Sonic Pi.
 
 ## Usage
 1. Processing
@@ -41,6 +48,11 @@ Developed :
 Published : 
 <br>
 26th, May, 2023
+<br>
+<br>
+Released :
+<br>
+28th, May, 2023
 <br>
 <br>
 by Hirotoshi Uchida
