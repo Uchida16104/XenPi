@@ -98,4 +98,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
   <summary>Released</summary>
   on 4th, June, 2023
 </details>
-by Hirotoshi Uchida
+<details>
+  <summary>Copyright</summary>
+  by Hirotoshi Uchida
+</details>
