@@ -8,7 +8,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 ## Download
 <details>
   <summary>Ver1.0</summary>
-<li><a href="https://github.com/Uchida16104/XenPi/blob/main/ver1.0/XenPi.pde">macOS(Intel 64bit)</a> - Just download .pde and .rb files.</li>
+<li><a href="https://github.com/Uchida16104/XenPi/blob/main/ver1.0/XenPi.pde">macOS(Intel 64bit)</a><i> - Just download .pde and .rb files.</i></li>
 <li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.0/macos-aarch64.zip">macOS(Apple Silicon)</a></li>
 <li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.0/windows-amd64.zip">Windows(Intel 64bit)</a></li>
 <li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.0/linux-amd64.zip">Linux(Intel 64bit)</a></li>
@@ -17,7 +17,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 </details>
 <details>
   <summary>Ver1.1</summary>
-<li><a href="https://github.com/Uchida16104/XenPi/blob/main/ver1.1/XenPi.pde">macOS(Intel 64bit)</a> - Just download .pde and .rb files.</li>
+<li><a href="https://github.com/Uchida16104/XenPi/blob/main/ver1.1/XenPi.pde">macOS(Intel 64bit)</a><i> - Just download .pde and .rb files.</i></li>
 <li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.1/macos-aarch64.zip">macOS(Apple Silicon)</a></li>
 <li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.1/windows-amd64.zip">Windows(Intel 64bit)</a></li>
 <li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.1/linux-amd64.zip">Linux(Intel 64bit)</a></li>
