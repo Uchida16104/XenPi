@@ -81,15 +81,15 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 
 ## Log
 <details>
-  <summary>Developed:</summary>
+  <summary>Developed</summary>
   on 25th, May, 2023
 </details>
 <details>
-  <summary>Published:</summary>
+  <summary>Published</summary>
   on 26th, May, 2023
 </details>
 <details>
-  <summary>Released:</summary>
+  <summary>Released</summary>
   on 4th, June, 2023
 </details>
 by Hirotoshi Uchida
