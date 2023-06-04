@@ -80,8 +80,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 </details>
 
 ## Log
-  
-<detals>
+<details>
   <summary>Developed on :</summary>
   25th, May, 2023
 </details>
