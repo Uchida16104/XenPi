@@ -68,7 +68,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 </ul>
 2. Sonic Pi
 <ul>
-<li><i>Just load "Xen.rb" and run it on Sonic Pi as above.<strong>(Changed!)</strong></i></li>
+<li><i>Just load "Xen.rb" and run it on Sonic Pi as above. <strong>(The file is changed!)</strong></i></li>
 </ul>
 </details>
 
