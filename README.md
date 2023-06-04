@@ -8,21 +8,21 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 ## Download
 <details>
   <summary>Ver1.0</summary>
-<li>[macOS(Intel 64bit)](https://github.com/Uchida16104/XenPi/blob/main/ver1.0/XenPi.pde) - Just download .pde and .rb files.</li>
-<li>[macOS(Apple Silicon)](https://github.com/Uchida16104/XenPi/raw/main/ver1.0/macos-aarch64.zip)</li>
-<li>[Windows(Intel 64bit)](https://github.com/Uchida16104/XenPi/raw/main/ver1.0/windows-amd64.zip)</li>
-<li>[Linux(Intel 64bit)](https://github.com/Uchida16104/XenPi/raw/main/ver1.0/linux-amd64.zip)</li>
-<li>[Linux(Raspberry Pi 32bit)](https://github.com/Uchida16104/XenPi/raw/main/ver1.0/linux-arm.zip)</li>
-<li>[Linux(Raspberry Pi 64bit)](https://github.com/Uchida16104/XenPi/raw/main/ver1.0/linux-aarch64.zip)</li>
+<li><a href="https://github.com/Uchida16104/XenPi/blob/main/ver1.0/XenPi.pde">macOS(Intel 64bit)</a> - Just download .pde and .rb files.</li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.0/macos-aarch64.zip">macOS(Apple Silicon)</a></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.0/windows-amd64.zip">Windows(Intel 64bit)</a></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.0/linux-amd64.zip">Linux(Intel 64bit)</a></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.0/linux-arm.zip">Linux(Raspberry Pi 32bit</a></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.0/linux-aarch64.zip">Linux(Raspberry Pi 64bit)</a></li>
 </details>
 <details>
   <summary>Ver1.1</summary>
-* [macOS(Intel 64bit)](https://github.com/Uchida16104/XenPi/blob/main/ver1.1/XenPi.pde) - Just download .pde and .rb files.
-* [macOS(Apple Silicon)](https://github.com/Uchida16104/XenPi/raw/main/ver1.1/macos-aarch64.zip)
-* [Windows(Intel 64bit)](https://github.com/Uchida16104/XenPi/raw/main/ver1.1/windows-amd64.zip)
-* [Linux(Intel 64bit)](https://github.com/Uchida16104/XenPi/raw/main/ver1.1/linux-amd64.zip)
-* [Linux(Raspberry Pi 32bit)](https://github.com/Uchida16104/XenPi/raw/main/ver1.1/linux-arm.zip)
-* [Linux(Raspberry Pi 64bit)](https://github.com/Uchida16104/XenPi/raw/main/ver1.1/linux-aarch64.zip)
+<li><a href="https://github.com/Uchida16104/XenPi/blob/main/ver1.1/XenPi.pde">macOS(Intel 64bit)</a> - Just download .pde and .rb files.</li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.1/macos-aarch64.zip">macOS(Apple Silicon)</a></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.1/windows-amd64.zip">Windows(Intel 64bit)</a></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.1/linux-amd64.zip">Linux(Intel 64bit)</a></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.1/linux-arm.zip">Linux(Raspberry Pi 32bit)</a></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.1/linux-aarch64.zip">Linux(Raspberry Pi 64bit)</a></li>
 </details>
 
 ## Install
