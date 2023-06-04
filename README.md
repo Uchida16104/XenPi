@@ -3,7 +3,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 
 ## Required environment
 1. [Sonic Pi](https://sonic-pi.net/)
-2. [Processing](https://processing.org/) (If you want to arrange this application)
+2. [Processing](https://processing.org/) <i>(If you want to arrange this application)</i>
 
 ## Download
 <details>
