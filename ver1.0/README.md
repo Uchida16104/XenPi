@@ -6,12 +6,12 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 2. [Processing](https://processing.org/) (If you want to arrange this application)
 
 ## Download
-* [macOS(Intel 64bit)](https://github.com/Uchida16104/XenPi/blob/main/XenPi.pde) - Just download .pde and .rb files.
-* [macOS(Apple Silicon)](https://github.com/Uchida16104/XenPi/raw/main/macos-aarch64.zip)
-* [Windows(Intel 64bit)](https://github.com/Uchida16104/XenPi/raw/main/windows-amd64.zip)
-* [Linux(Intel 64bit)](https://github.com/Uchida16104/XenPi/raw/main/linux-amd64.zip)
-* [Linux(Raspberry Pi 32bit)](https://github.com/Uchida16104/XenPi/raw/main/linux-arm.zip)
-* [Linux(Raspberry Pi 64bit)](https://github.com/Uchida16104/XenPi/raw/main/linux-aarch64.zip)
+* [macOS(Intel 64bit)](https://github.com/Uchida16104/XenPi/blob/main/ver1.0/XenPi.pde) - Just download .pde and .rb files.
+* [macOS(Apple Silicon)](https://github.com/Uchida16104/XenPi/raw/main/ver1.0/macos-aarch64.zip)
+* [Windows(Intel 64bit)](https://github.com/Uchida16104/XenPi/raw/main/ver1.0/windows-amd64.zip)
+* [Linux(Intel 64bit)](https://github.com/Uchida16104/XenPi/raw/main/ver1.0/linux-amd64.zip)
+* [Linux(Raspberry Pi 32bit)](https://github.com/Uchida16104/XenPi/raw/main/ver1.0/linux-arm.zip)
+* [Linux(Raspberry Pi 64bit)](https://github.com/Uchida16104/XenPi/raw/main/ver1.0/linux-aarch64.zip)
 
 ## Install
 1. Re-unzip the downloaded .zip file with the contents according to your operating system.
