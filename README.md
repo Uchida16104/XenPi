@@ -50,7 +50,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 </ul>
 2. Sonic Pi
 <ul>
-<li>Just load "Xen.rb" and run it on Sonic Pi as above.</li>
+<li><i>Just load "Xen.rb" and run it on Sonic Pi as above.</i></li>
 </ul>
 </details>
 <details>
@@ -63,12 +63,12 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 <li>Beat - means how many beats to adjust the rhythm.</li>
 <li>Step - means how much degree of rhythmic complexity.</li>
 <li>Tone - means the kind of bass drum(:bd), snare drum(:sn), and drums(:drums) tone on Sonic Pi.</li>
-<li>1~8 - means the volume of the nth beat.</li>
+<li><i>1~8</i> - means the volume of the nth beat.</li>
 <li><i>(Deleted function of "Scale" on "Synth" compare with ver1.0.)</i></li>
 </ul>
 2. Sonic Pi
 <ul>
-<li>Just load "Xen.rb" and run it on Sonic Pi as above.</li>
+<li><i>Just load "Xen.rb" and run it on Sonic Pi as above.</i></li>
 </ul>
 </details>
 
