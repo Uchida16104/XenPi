@@ -32,8 +32,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 ## Usage
 <details>
   <summary>Ver1.0</summary>
-<ol>
-<li>Processing</li>
+1. Processing
 <ul>
 <li>Synth - means value of synth names on Sonic Pi.</li>
 <li>Amp - means amp value on Sonic Pi.</li>
@@ -49,15 +48,12 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 <li>Time - means how much interval separates the sounds.</li>
 <li>Mode - means when value 0 is "Note", 1 is "Chord", 2 is "Scale", and can select performance type.</li>
 </ul>
-</li>Sonic Pi</li>
-</ol>
+2. Sonic Pi
 <li>Just load "Xen.rb" and run it on Sonic Pi as above.</li>
 </details>
 <details>
   <summary>Ver1.1</summary>
-<ol>
-<li>Processing (Additional changes)</li>
-</ol>
+1. Processing (Additional changes)
 <ul>
 <li>Effect - means value of effect names on Sonic Pi.</li>
 <li>Mix - means value of effect volume.</li>
