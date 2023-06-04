@@ -32,7 +32,9 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 ## Usage
 <details>
   <summary>Ver1.0</summary>
-1. Processing
+<ol>
+<li>Processing</li>
+<ul>
 <li>Synth - means value of synth names on Sonic Pi.</li>
 <li>Amp - means amp value on Sonic Pi.</li>
 <li>Pan - means pan value on Sonic Pi.</li>
@@ -46,12 +48,17 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 <li>Scale - means value of scale names when "Mode" value shows 2.</li>
 <li>Time - means how much interval separates the sounds.</li>
 <li>Mode - means when value 0 is "Note", 1 is "Chord", 2 is "Scale", and can select performance type.</li>
-2. Sonic Pi
+</ul>
+</li>Sonic Pi</li>
+</ol>
 <li>Just load "Xen.rb" and run it on Sonic Pi as above.</li>
 </details>
 <details>
   <summary>Ver1.1</summary>
-1. Processing (Additional changes)
+<ol>
+<li>Processing (Additional changes)</li>
+</ol>
+<ul>
 <li>Effect - means value of effect names on Sonic Pi.</li>
 <li>Mix - means value of effect volume.</li>
 <li>Division - means the value specified by "Beat" is separated by which value.</li>
@@ -60,6 +67,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 <li>Tone - means the kind of bass drum(:bd), snare drum(:sn), and drums(:drums) tone on Sonic Pi.</li>
 <li>1~8 - means the volume of the nth beat.</li>
 <li>(Deleted function of "Scale" on "Synth" compare with ver1.0.)</li>
+<ul>
 </details>
 
 ## Image
