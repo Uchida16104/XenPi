@@ -64,7 +64,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 
 ## Demo
 ### Ver1.1
-<video src="ver1.1/demo.mp4"></video>
+<source src="ver1.1/demo.mp4">
 
 ## Log
 Developed on :
