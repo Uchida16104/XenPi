@@ -28,8 +28,10 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 ## Install
 <details>
   <summary>Process</summary>
-1. Re-unzip the downloaded .zip file with the contents according to your operating system.
-2. Then, run the executable file (.exe, .app, .sh) and "Xen.rb" file on Sonic Pi.
+  <ul>
+    <li>Re-unzip the downloaded .zip file with the contents according to your operating system.</li>
+    <li>Then, run the executable file (.exe, .app, .sh) and "Xen.rb" file on Sonic Pi.</li>
+  </ul>
 </details>
 
 ## Usage
