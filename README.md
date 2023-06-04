@@ -2,8 +2,10 @@
 This is an application I developed by Sonic Pi and Processing for playing microtonal performance.
 
 ## Required environment
-1. [Sonic Pi](https://sonic-pi.net/)
-2. [Processing](https://processing.org/) <i>(If you want to arrange this application)</i>
+<ol>
+<li><a href="https://sonic-pi.net/">Sonic Pi</a></li>
+<li><a href="https://processing.org/">Processing <i>(If you want to arrange this application)</i></li>
+</ol>
 
 ## Download
 <details>
