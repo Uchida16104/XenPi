@@ -33,33 +33,33 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 <details>
   <summary>Ver1.0</summary>
 1. Processing
-* Synth - means value of synth names on Sonic Pi.
-* Amp - means amp value on Sonic Pi.
-* Pan - means pan value on Sonic Pi.
-* Attack - means attack value on Sonic Pi.
-* Decay - means decay value on Sonic Pi.
-* Sustain - means sustain value on Sonic Pi.
-* Release - means release value on Sonic Pi.
-* Edo - means Edo value on Sonic Pi (Edo means Equal Division of the Octave, and microtonal tuning).
-* Number - means what number of the microtonal is playing.
-* Chord - means value of chord names when "Mode" value shows 1.
-* Scale - means value of scale names when "Mode" value shows 2.
-* Time - means how much interval separates the sounds.
-* Mode - means when value 0 is "Note", 1 is "Chord", 2 is "Scale", and can select performance type.
+<li>Synth - means value of synth names on Sonic Pi.</li>
+<li>Amp - means amp value on Sonic Pi.</li>
+<li>Pan - means pan value on Sonic Pi.</li>
+<li>Attack - means attack value on Sonic Pi.</li>
+<li>Decay - means decay value on Sonic Pi.</li>
+<li>Sustain - means sustain value on Sonic Pi.</li>
+<li>Release - means release value on Sonic Pi.</li>
+<li>Edo - means Edo value on Sonic Pi (Edo means Equal Division of the Octave, and microtonal tuning).</li>
+<li>Number - means what number of the microtonal is playing.</li>
+<li>Chord - means value of chord names when "Mode" value shows 1.</li>
+<li>Scale - means value of scale names when "Mode" value shows 2.</li>
+<li>Time - means how much interval separates the sounds.</li>
+<li>Mode - means when value 0 is "Note", 1 is "Chord", 2 is "Scale", and can select performance type.</li>
 2. Sonic Pi
-* Just load "Xen.rb" and run it on Sonic Pi as above.
+<li>Just load "Xen.rb" and run it on Sonic Pi as above.</li>
 </details>
 <details>
   <summary>Ver1.1</summary>
 1. Processing (Additional changes)
-* Effect - means value of effect names on Sonic Pi.
-* Mix - means value of effect volume.
-* Division - means the value specified by "Beat" is separated by which value.
-* Beat - means how many beats to adjust the rhythm.
-* Step - means how much degree of rhythmic complexity.
-* Tone - means the kind of bass drum(:bd), snare drum(:sn), and drums(:drums) tone on Sonic Pi.
-* 1~8 - means the volume of the nth beat.
-* (Deleted function of "Scale" on "Synth" compare with ver1.0.)
+<li>Effect - means value of effect names on Sonic Pi.</li>
+<li>Mix - means value of effect volume.</li>
+<li>Division - means the value specified by "Beat" is separated by which value.</li>
+<li>Beat - means how many beats to adjust the rhythm.</li>
+<li>Step - means how much degree of rhythmic complexity.</li>
+<li>Tone - means the kind of bass drum(:bd), snare drum(:sn), and drums(:drums) tone on Sonic Pi.</li>
+<li>1~8 - means the volume of the nth beat.</li>
+<li>(Deleted function of "Scale" on "Synth" compare with ver1.0.)</li>
 </details>
 
 ## Image
