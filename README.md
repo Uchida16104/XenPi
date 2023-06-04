@@ -24,6 +24,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 * [Linux(Raspberry Pi 32bit)](https://github.com/Uchida16104/XenPi/raw/main/ver1.1/linux-arm.zip)
 * [Linux(Raspberry Pi 64bit)](https://github.com/Uchida16104/XenPi/raw/main/ver1.1/linux-aarch64.zip)
 </details>
+
 ## Install
 1. Re-unzip the downloaded .zip file with the contents according to your operating system.
 2. Then, run the executable file (.exe, .app, .sh) and "Xen.rb" file on Sonic Pi.
