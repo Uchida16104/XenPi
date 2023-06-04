@@ -62,10 +62,6 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 <img src="ver1.1/XenPi-P.png"/>
 <img src="ver1.1/XenPi-SP.png"/>
 
-## Demo
-### Ver1.1
-https://user-images.githubusercontent.com/Uchida16104/XenPi/main/ver1.1/demo.mp4
-
 ## Log
 Developed on :
 <br>
