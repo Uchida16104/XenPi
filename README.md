@@ -49,7 +49,9 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 <li>Mode - means when value 0 is "Note", 1 is "Chord", 2 is "Scale", and can select performance type.</li>
 </ul>
 2. Sonic Pi
+<ul>
 <li>Just load "Xen.rb" and run it on Sonic Pi as above.</li>
+</ul>
 </details>
 <details>
   <summary>Ver1.1</summary>
@@ -65,7 +67,9 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 <li><i>(Deleted function of "Scale" on "Synth" compare with ver1.0.)</i></li>
 </ul>
 2. Sonic Pi
+<ul>
 <li>Just load "Xen.rb" and run it on Sonic Pi as above.</li>
+</ul>
 </details>
 
 ## Image
