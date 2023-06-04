@@ -80,19 +80,16 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 </details>
 
 ## Log
-Developed on :
-<br>
-25th, May, 2023
-<br>
-<br>
-Published on : 
-<br>
-26th, May, 2023
-<br>
-<br>
-Released on :
-<br>
+<detals>
+  <summary>Developed on :</summary>
+  25th, May, 2023
+</details>
+<details>
+  <summary>Published on :</summary>
+  26th, May, 2023
+</details>
+<details>
+  <summary>Released on :</summary>
 4th, June, 2023
-<br>
-<br>
+</details>
 by Hirotoshi Uchida
