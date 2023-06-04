@@ -76,7 +76,7 @@ Published on :
 Released on :
 <br>
 4th, June, 2023
-* Deleted function of "Scale" on "Synth".
+* Deleted function of "Scale" on "Synth" compare with ver1.0.
 <br>
 <br>
 by Hirotoshi Uchida
