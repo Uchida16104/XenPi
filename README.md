@@ -90,6 +90,6 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 </details>
 <details>
   <summary>Released on :</summary>
-4th, June, 2023
+  4th, June, 2023
 </details>
 by Hirotoshi Uchida
