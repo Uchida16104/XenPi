@@ -26,6 +26,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 2. Then, run the executable file (.exe, .app, .sh) and "Xen.rb" file on Sonic Pi.
 
 ## Usage
+### Ver1.0
 1. Processing
 * Synth - means value of synth names on Sonic Pi.
 * Amp - means amp value on Sonic Pi.
@@ -42,6 +43,15 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 * Mode - means when value 0 is "Note", 1 is "Chord", 2 is "Scale", and can select performance type.
 2. Sonic Pi
 * Just load "Xen.rb" and run it on Sonic Pi as above.
+### Ver1.1
+1. Processing
+* Effect - means value of effect names on Sonic Pi.
+* Mix - means value of effect volume.
+* Division - means the value specified by "Beat" is separated by which value.
+* Beat - means how many beats to adjust the rhythm.
+* Step - means how much degree of rhythmic complexity.
+* Tone - means the kind of bass drum(:bd), snare drum(:sn), and drums(:drums) tone on Sonic Pi.
+* 1~8 - means the volume of the nth beat.
 
 ## Image
 ### Ver1.0
@@ -53,19 +63,20 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 <img src="ver1.1/XenPi-SP.png"/>
 
 ## Log
-Developed :
+Developed on :
 <br>
 25th, May, 2023
 <br>
 <br>
-Published : 
+Published on : 
 <br>
 26th, May, 2023
 <br>
 <br>
-Released :
+Released on :
 <br>
-28th, May, 2023
+4th, June, 2023
+* Deleted function of "Scale" on "Synth".
 <br>
 <br>
 by Hirotoshi Uchida
