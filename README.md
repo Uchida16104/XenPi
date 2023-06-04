@@ -62,7 +62,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 <li>Step - means how much degree of rhythmic complexity.</li>
 <li>Tone - means the kind of bass drum(:bd), snare drum(:sn), and drums(:drums) tone on Sonic Pi.</li>
 <li>1~8 - means the volume of the nth beat.</li>
-<li>(Deleted function of "Scale" on "Synth" compare with ver1.0.)</li>
+<li><i>(Deleted function of "Scale" on "Synth" compare with ver1.0.)</i></li>
 <ul>
 </details>
 
