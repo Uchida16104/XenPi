@@ -36,8 +36,8 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 * Just load "Xen.rb" and run it on Sonic Pi as above.
 
 ## Image
-<img src="XenPi-P.png"/>
-<img src="XenPi-SP.png"/>
+<img src="ver1.0/XenPi-P.png"/>
+<img src="ver1.0/XenPi-SP.png"/>
 
 ## Log
 Developed :
