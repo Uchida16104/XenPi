@@ -1,5 +1,5 @@
 # XenPi
-This is an application I developed by Sonic Pi and Processing for playing microtonal performance.
+This is an application I developed by Sonic Pi, Processing, and Hydra for playing microtonal performance.
 
 ## Required environment
 <details>
@@ -111,7 +111,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 </ul>
 3. Hydra
 <ul>
-<li><i>Just run "Xen.js" code and run it on hydra as above.</i></li>
+<li><i>Just run "Xen.js" code and run it on Hydra as above.</i></li>
 </ul>
 </details>
   
