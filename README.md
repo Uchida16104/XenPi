@@ -7,6 +7,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 <ol>
 <li><a href="https://sonic-pi.net/">Sonic Pi</a></li>
 <li><a href="https://processing.org/">Processing </a><i>(If you want to arrange this application)</i></li>
+<li><a href="https://hydra.ojack.xyz/">hydra</a><i>(from ver1.2)</i></li>
 </ol>
 </details>
 
@@ -29,13 +30,23 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 <li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.1/linux-arm.zip">Linux(Raspberry Pi 32bit)</a></li>
 <li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.1/linux-aarch64.zip">Linux(Raspberry Pi 64bit)</a></li>
 </details>
+<details>
+  <summary>Ver1.2</summary>
+<li><a href="https://github.com/Uchida16104/XenPi/blob/main/ver1.2/XenPi.pde">macOS(Intel 64bit)</a><i> - Just download .pde, .rb, and .js files.</i></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.2/macos-aarch64.zip">macOS(Apple Silicon)</a></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.2/windows-amd64.zip">Windows(Intel 64bit)</a></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.2/linux-amd64.zip">Linux(Intel 64bit)</a></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.2/linux-arm.zip">Linux(Raspberry Pi 32bit)</a></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.2/linux-aarch64.zip">Linux(Raspberry Pi 64bit)</a></li>
+</details>
+
 
 ## Install
 <details>
   <summary>Process</summary>
   <ol>
     <li>Re-unzip the downloaded .zip file with the contents according to your operating system.</li>
-    <li>Then, run the executable file (.exe, .app, .sh) and "Xen.rb" file on Sonic Pi.</li>
+    <li>Then, run the executable file (.exe, .app, .sh), do "Xen.rb" file on Sonic Pi, and do the code of "XenPi.js" after copying and pasting it on hydra (from ver1.2).</li>
   </ol>
 </details>
 
@@ -81,18 +92,44 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 <li><i>Just load "Xen.rb" and run it on Sonic Pi as above. <strong>(The file is changed!)</strong></i></li>
 </ul>
 </details>
-
+<details>
+  <summary>Ver1.2</summary>
+1. Processing (Additional changes)
+<ul>
+<li>Group - means the kind of sample.</li>
+<li>Order - means the number of sample group.</li>
+<li>Speed - means the rate of sample.</li>
+<li>Tuning(1~4) - Tuning1 corresponds the tuning of Synth1. Tuning2 corresponds the tuning of Synth2. Tuning3 correspond the beginning tuning of Synth3 and Tuning4 correspond the terminal tuning of Synth3.</li>
+<li>Bpm - means to adjust loop(:loop) tempo.</li>
+<li>Red - means to adjust the red ratio including background color.</li>
+<li>Green - means to adjust the green ratio including background color.</li>
+<li>Blue - means to adjust the blue ratio including background color.</li>
+<ul>
+2. Sonic Pi
+<ul>
+<li><i>Just load "Xen.rb" and run it on Sonic Pi as above. <strong>(The file is changed!)</strong></i></li>
+</ul>
+3. Hydra
+<ul>
+<li><i>Just run "Xen.js" code and run it on hydra as above.</i></li>
+</ul>
+</details>
 ## Image
 <details>
   <summary>Ver1.0</summary>
 <img src="ver1.0/XenPi-P.png"/>
 <img src="ver1.0/XenPi-SP.png"/>
 </details>
-
 <details>
   <summary>Ver1.1</summary>
 <img src="ver1.1/XenPi-P.png"/>
 <img src="ver1.1/XenPi-SP.png"/>
+</details>
+<details>
+  <summary>Ver1.2</summary>
+<img src="ver1.2/XenPi-P.png"/>
+<img src="ver1.2/XenPi-SP.png"/>
+<img src="ver1.2/XenPi-H.png"/>
 </details>
 
 ## Log
@@ -106,7 +143,7 @@ This is an application I developed by Sonic Pi and Processing for playing microt
 </details>
 <details>
   <summary>Released</summary>
-  on 4th, June, 2023
+  on 22nd, June, 2023
 </details>
 <details>
   <summary>Copyright</summary>
