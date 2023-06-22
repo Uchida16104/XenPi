@@ -7,7 +7,7 @@ This is an application I developed by Sonic Pi, Processing, and Hydra for playin
 <ol>
 <li><a href="https://sonic-pi.net/">Sonic Pi</a></li>
 <li><a href="https://processing.org/">Processing </a><i>(If you want to arrange this application)</i></li>
-<li><a href="https://hydra.ojack.xyz/">hydra </a><i>(from ver1.2)</i></li>
+<li><a href="https://hydra.ojack.xyz/">Hydra </a><i>(from ver1.2)</i></li>
 </ol>
 </details>
 
