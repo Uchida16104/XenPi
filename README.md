@@ -104,7 +104,7 @@ This is an application I developed by Sonic Pi, Processing, and Hydra for playin
 <li>Red - means to adjust the red ratio including background color.</li>
 <li>Green - means to adjust the green ratio including background color.</li>
 <li>Blue - means to adjust the blue ratio including background color.</li>
-<ul>
+</ul>
 2. Sonic Pi
 <ul>
 <li><i>Just load "Xen.rb" and run it on Sonic Pi as above. <strong>(The file is changed!)</strong></i></li>
