@@ -1,0 +1,20 @@
+{-
+XenPi
+Is an application created by Processing, Sonic Pi Orca, FoxDot, TidalCycles and hydra.
+Also please use this when you play microtonal music performance.
+By Hirotoshi Uchida
+Developed on 25th, May, 2023
+Released on 2nd, Sep, 2023
+-}
+
+d1
+$ jux (slow "<2 4 8 16>")
+$ iter 8
+$ stutter 8 (1/4)
+$ fast "<0.5 1 2 4>"
+$ s "midi1 bd"
+#n "<0 2 2 4 5 9 14 23>"
+#room 1
+#amp 1
+
+hush
