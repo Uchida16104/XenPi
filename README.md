@@ -1,5 +1,5 @@
 # XenPi
-This is an application I developed by Sonic Pi, Processing, and Hydra for playing microtonal performance.
+This is an application I developed by Sonic Pi, Processing, FoxDot, TidalCycles and Hydra for playing microtonal performance.
 
 ## Required environment
 <details>
@@ -60,7 +60,7 @@ This is an application I developed by Sonic Pi, Processing, and Hydra for playin
   <summary>Process</summary>
   <ol>
     <li>Re-unzip the downloaded .zip file with the contents according to your operating system.</li>
-    <li>Then, run the executable file (.exe, .app, .sh), do "Xen.rb" file on Sonic Pi, and do the code of "XenPi.js" after copying and pasting it on hydra (from ver1.2).</li>
+    <li>Then, run the executable file (.exe, .app, .sh), do "XenPi.rb" file on Sonic Pi, and do the code of "XenPi.js" after copying and pasting it on hydra (from ver1.2).</li>
   </ol>
 </details>
 
@@ -85,7 +85,7 @@ This is an application I developed by Sonic Pi, Processing, and Hydra for playin
 </ul>
 2. Sonic Pi
 <ul>
-<li><i>Just load "Xen.rb" and run it on Sonic Pi as above.</i></li>
+<li><i>Just load "XenPi.rb" and run it on Sonic Pi as above.</i></li>
 </ul>
 </details>
 <details>
@@ -103,7 +103,7 @@ This is an application I developed by Sonic Pi, Processing, and Hydra for playin
 </ul>
 2. Sonic Pi
 <ul>
-<li><i>Just load "Xen.rb" and run it on Sonic Pi as above. <strong>(The file is changed!)</strong></i></li>
+<li><i>Just load "XenPi.rb" and run it on Sonic Pi as above. <strong>(The file is changed!)</strong></i></li>
 </ul>
 </details>
 <details>
@@ -121,11 +121,42 @@ This is an application I developed by Sonic Pi, Processing, and Hydra for playin
 </ul>
 2. Sonic Pi
 <ul>
-<li><i>Just load "Xen.rb" and run it on Sonic Pi as above. <strong>(The file is changed!)</strong></i></li>
+<li><i>Just load "XenPi.rb" and run it on Sonic Pi as above. <strong>(The file is changed!)</strong></i></li>
 </ul>
 3. Hydra
 <ul>
-<li><i>Just run "Xen.js" code and run it on Hydra as above.</i></li>
+<li><i>Just run "XenPi.js" code and run it on Hydra as above.</i></li>
+</ul>
+</details>
+<details>
+  <summary>Ver1.3</summary>
+1. Processing (Additional changes)
+<ul>
+<li>Channel - means midi channel.</li>
+<li>Value - means midi control value.</li>
+<li>Speed - means the rate of sample.</li>
+<li>Tuning(1~4) - Tuning1 corresponds the tuning of Synth1. Tuning2 corresponds the tuning of Synth2. Tuning3 correspond the beginning tuning of Synth3 and Tuning4 correspond the terminal tuning of Synth3.</li>
+<li>hat - is changed from <i>loop</i>.</li>
+</ul>
+2. Sonic Pi
+<ul>
+<li><i>Just load "XenPi.rb" and run it on Sonic Pi as above. <strong>(The file is changed!)</strong></i></li>
+</ul>
+3. Hydra
+<ul>
+<li><i>Click anywhere in XenPi to jump hydra link, and can create a session. <strong>(It's recommended to operate XenPi knobs or sliders by mouse wheel)</i></li>
+</ul>
+4. FoxDot
+<ul>
+<li><i>Just load "XenPi.py" and run it on FoxDot as above.</i></li>
+</ul>
+5. TidalCycles
+<ul>
+<li><i>Just load "XenPi.tidal" and run it on TidalCycles as above.</i></li>
+</ul>
+6. SuperCollider
+<ul>
+<li><i>Just load "XenPi-T.sc" or "XenPi-F.sc" and run it on SuperCollider as above.</i></li>
 </ul>
 </details>
   
@@ -158,7 +189,7 @@ This is an application I developed by Sonic Pi, Processing, and Hydra for playin
 </details>
 <details>
   <summary>Released</summary>
-  on 22nd, June, 2023
+  on 2nd, Sep, 2023
 </details>
 <details>
   <summary>Copyright</summary>
