@@ -12,7 +12,7 @@ This is an application I developed by Sonic Pi, Processing, and Hydra for playin
 <li><a href="https://www.haskell.org/downloads/">Haskell </a><i>(from ver1.3 if you'll create a session with TidalCycles)</i></li>
 <li>TidalCycles <i>(from ver1.3, these are the installation manuals on <a href=https://tidalcycles.org/docs/getting-started/macos_install">macOS</a>, <a href="https://tidalcycles.org/docs/getting-started/windows_install">Windows</a>, and <a href="https://tidalcycles.org/docs/getting-started/linux_install">Linux</a></i></li>
 <li><a href="https://www.python.org/downloads/">Python </a><i>(from ver1.3 if you'll create a session with FoxDot)</i></li>
-<li>FoxDot <i>(from ver1.3, this is the installation manual, and please run the code on <a href="https://foxdot.org/installation/">following link</a>)</li>
+<li>FoxDot <i>(from ver1.3, this is the installation manual, and please run the code on <a href="https://foxdot.org/installation/">following link</a>)</i></li>
 </ol>
 </details>
 
