@@ -119,18 +119,14 @@ This is an application I developed by Sonic Pi, Processing, and Hydra for playin
 <details>
   <summary>Ver1.0</summary>
 <img src="ver1.0/XenPi-P.png"/>
-<img src="ver1.0/XenPi-SP.png"/>
 </details>
 <details>
   <summary>Ver1.1</summary>
 <img src="ver1.1/XenPi-P.png"/>
-<img src="ver1.1/XenPi-SP.png"/>
 </details>
 <details>
   <summary>Ver1.2</summary>
 <img src="ver1.2/XenPi-P.png"/>
-<img src="ver1.2/XenPi-SP.png"/>
-<img src="ver1.2/XenPi-H.png"/>
 </details>
 
 ## Log
