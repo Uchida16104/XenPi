@@ -145,7 +145,7 @@ This is an application I developed by Sonic Pi, Processing, Orca, FoxDot, TidalC
 </ul>
 3. Hydra
 <ul>
-<li><i>Click anywhere in XenPi to jump hydra link, and can create a session. <strong>(It's recommended to operate XenPi knobs or sliders by mouse wheel)</i></li>
+<li><i>Click anywhere in XenPi to jump hydra link, and can create a session. <strong>(It's recommended to operate XenPi knobs or sliders by mouse wheel)</strong></i></li>
 </ul>
 4. Orca
 <ul>
