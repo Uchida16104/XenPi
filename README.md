@@ -39,6 +39,15 @@ This is an application I developed by Sonic Pi, Processing, and Hydra for playin
 <li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.2/linux-arm.zip">Linux(Raspberry Pi 32bit)</a></li>
 <li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.2/linux-aarch64.zip">Linux(Raspberry Pi 64bit)</a></li>
 </details>
+<details>
+  <summary>Ver1.3</summary>
+<li><a href="https://github.com/Uchida16104/XenPi/blob/main/ver1.3/XenPi.pde">macOS(Intel 64bit)</a><i> - Just download .pde, .rb, .tidal, .py, and .orca files.</i></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.3/macos-aarch64.zip">macOS(Apple Silicon)</a></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.3/windows-amd64.zip">Windows(Intel 64bit)</a></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.3/linux-amd64.zip">Linux(Intel 64bit)</a></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.3/linux-arm.zip">Linux(Raspberry Pi 32bit)</a></li>
+<li><a href="https://github.com/Uchida16104/XenPi/raw/main/ver1.3/linux-aarch64.zip">Linux(Raspberry Pi 64bit)</a></li>
+</details>
 
 
 ## Install
@@ -127,6 +136,10 @@ This is an application I developed by Sonic Pi, Processing, and Hydra for playin
 <details>
   <summary>Ver1.2</summary>
 <img src="ver1.2/XenPi-P.png"/>
+</details>
+<details>
+  <summary>Ver1.3</summary>
+<img src="ver1.3/XenPi-P.png"/>
 </details>
 
 ## Log
