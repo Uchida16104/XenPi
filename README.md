@@ -13,7 +13,7 @@ This is an application I developed by Sonic Pi, Processing, Orca, FoxDot, TidalC
 <li>TidalCycles <i>(from ver1.3, these are the installation manuals on <a href=https://tidalcycles.org/docs/getting-started/macos_install">macOS</a>, <a href="https://tidalcycles.org/docs/getting-started/windows_install">Windows</a>, and <a href="https://tidalcycles.org/docs/getting-started/linux_install">Linux</a></i></li>
 <li><a href="https://www.python.org/downloads/">Python </a><i>(from ver1.3 if you'll create a session with FoxDot)</i></li>
 <li>FoxDot <i>(from ver1.3, this is the installation manual, and please run the code on <a href="https://foxdot.org/installation/">following link</a>)</i></li>
-<li>Orca <i>(from ver1.3, and <a href="https://hundredrabbits.itch.io/orca">this</a> is the download link, or paste "XenPi.orca" on <a href="https://hundredrabbits.github.io/Orca/">non installation version</a> </i></li>
+<li>Orca <i>(from ver1.3, and <a href="https://hundredrabbits.itch.io/orca">this</a> is the download link, or paste "XenPi.orca" on <a href="https://hundredrabbits.github.io/Orca/">non installation version</a>) </i></li>
 </ol>
 </details>
 
